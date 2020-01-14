@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CanaryMod">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../minecraft-server/CanaryMod.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../minecraft-server/CanaryMod.jar!/" />
+    </SOURCES>
+  </library>
+</component>
